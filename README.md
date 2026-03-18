@@ -14,6 +14,12 @@ The task contais the original context, such as who sent the message, original me
 <img width="860" alt="image" src="https://github.com/user-attachments/assets/f361186f-0028-43ac-befc-1c688fd94efe" />
 
 
+# Flow setup
+
+This is a fairly simple flow. You can find the solution package attached, but to be honest, it is faster to build from scratch. Just refer to the picture below and copypaste the adaptive card code :) 
+
+<img width="940" height="1231" alt="image" src="https://github.com/user-attachments/assets/ac78ff85-b9e0-4c69-b160-c740b23eeb21" />
+
   
 # Adaptive Card
 
