@@ -20,7 +20,7 @@ This is a fairly simple flow. You can find the solution package attached, but to
 
 Tasktitle and notes are coming from the adaptive card.
 
-<img width="940" height="1231" alt="image" src="https://github.com/user-attachments/assets/ac78ff85-b9e0-4c69-b160-c740b23eeb21" />
+<img width="600" height="1231" alt="image" src="https://github.com/user-attachments/assets/ac78ff85-b9e0-4c69-b160-c740b23eeb21" />
 
   
 # Adaptive Card
