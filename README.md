@@ -18,6 +18,8 @@ The task contais the original context, such as who sent the message, original me
 
 This is a fairly simple flow. You can find the solution package attached, but to be honest, it is faster to build from scratch. Just refer to the picture below and copypaste the adaptive card code :) 
 
+Tasktitle and notes are coming from the adaptive card.
+
 <img width="940" height="1231" alt="image" src="https://github.com/user-attachments/assets/ac78ff85-b9e0-4c69-b160-c740b23eeb21" />
 
   
