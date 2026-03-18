@@ -11,7 +11,9 @@ You can add your own details to the task, such as task title and notes:
 
 The task contais the original context, such as who sent the message, original message content and also a link to the message:
 
-<img width="860" alt="image" src="https://github.com/user-attachments/assets/f361186f-0028-43ac-befc-1c688fd94efe" 
+<img width="860" alt="image" src="https://github.com/user-attachments/assets/f361186f-0028-43ac-befc-1c688fd94efe" />
+
+
   
 # Adaptive Card
 
