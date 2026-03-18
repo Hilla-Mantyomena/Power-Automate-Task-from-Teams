@@ -11,4 +11,43 @@ You can add your own details to the task, such as task title and notes:
 
 The task contais the original context, such as who sent the message, original message content and also a link to the message:
 
-<img width="860" alt="image" src="https://github.com/user-attachments/assets/f361186f-0028-43ac-befc-1c688fd94efe" />
+<img width="860" alt="image" src="https://github.com/user-attachments/assets/f361186f-0028-43ac-befc-1c688fd94efe" 
+  
+# Adaptive Card
+
+{
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "type": "AdaptiveCard",
+    "version": "1.3",
+    "body": [
+        {
+            "type": "TextBlock",
+            "text": "Task",
+            "wrap": true,
+            "weight": "Bolder",
+            "color": "Accent"
+        },
+        {
+            "type": "Input.Text",
+            "id": "tasktitle"
+        },
+        {
+            "type": "TextBlock",
+            "text": "Notes",
+            "wrap": true,
+            "weight": "Bolder",
+            "color": "Accent"
+        },
+        {
+            "type": "Input.Text",
+            "spacing": "None",
+            "id": "notes"
+        }
+    ],
+    "actions": [
+        {
+            "type": "Action.Submit",
+            "title": "Submit"
+        }
+    ]
+}
