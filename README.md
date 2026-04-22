@@ -3,6 +3,8 @@ This is a very simple cloud flow to create To-Do tasks directly from Teams messa
 
 You can trigger this flow directly from Teams, making your work flow easier (no switching between To-Do and Teams!):
 
+IMPORTANT: THIS TRIGGER ONLY WORKS IN DEFAULT ENVIRONMENT (or in whatever environment your Teams is, I assume it is the default)!
+
 <img width="239" alt="image" src="https://github.com/user-attachments/assets/6d54d182-232a-48d7-a063-edb17bfa19d7" />
 
 You can add your own details to the task, such as task title and notes:
@@ -62,4 +64,4 @@ Tasktitle and notes are coming from the adaptive card.
     ]
 }
 
-IMPORTANT: THIS TRIGGER ONLY WORKS IN DEFAULT ENVIRONMENT (or in whatever environment your Teams is, I assume it is the default)!
+
