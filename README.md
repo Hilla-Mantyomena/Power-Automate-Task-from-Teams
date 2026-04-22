@@ -61,3 +61,5 @@ Tasktitle and notes are coming from the adaptive card.
         }
     ]
 }
+
+IMPORTANT: THIS TRIGGER ONLY WORKS IN DEFAULT ENVIRONMENT (or in whatever environment your Teams is, I assume it is the default)!
